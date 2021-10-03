@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abbicodes
 - 👀 I’m interested in Front-end development
 - 🌱 I’m currently learning HTML,CSS and JavaScript
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Front-end development projects
 - 📫 How to reach me at abi@brownandpencil.co.uk
 
 <!---
